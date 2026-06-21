@@ -29,7 +29,7 @@ cd lego-inventory
 3. Run the program:
 
 ```bash
-python #lego inventory.py
+python lego-inventory.py
 ```
 
 ## Skills Used
