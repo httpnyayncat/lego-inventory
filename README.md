@@ -36,5 +36,13 @@ python lego-inventory.py
 - Python
 - Lists
 - Dictionaries
+
+##sample code
+Welcome to LEGO Inventory Tracker!
+
+1. Add piece
+2. Remove piece
+3. View inventory
+4. Exit
 - Functions
 - Command-line interface
