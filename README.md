@@ -1,2 +1,40 @@
 # lego-inventory
-using this system can track your lego pieces
+# LEGO Inventory Tracker
+
+A Python-based inventory system for tracking LEGO pieces.
+
+## Features
+- Add LEGO pieces
+- Remove LEGO pieces
+- View inventory
+- Count total pieces
+
+## Requirements
+- Python 3 installed
+
+## How to Run
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/lego-inventory.git
+```
+
+2. Open project folder:
+
+```bash
+cd lego-inventory
+```
+
+3. Run the program:
+
+```bash
+python lego_inventory.py
+```
+
+## Skills Used
+- Python
+- Lists
+- Dictionaries
+- Functions
+- Command-line interface
