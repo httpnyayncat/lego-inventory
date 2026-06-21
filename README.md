@@ -37,7 +37,8 @@ python lego-inventory.py
 - Lists
 - Dictionaries
 
-##sample code
+## Sample Code
+
 Welcome to LEGO Inventory Tracker!
 
 1. Add piece
